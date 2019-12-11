@@ -19,6 +19,7 @@ export default function NasaPhoto() {
     return (
    <div className= "photo">
        <NasaCard
+       url = {photos.url}
        title = {photos.title}
        date = {photos.date}
        explanation = {photos.explanation}
