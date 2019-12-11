@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import NasaPhoto from "./NasaPhoto";
-import NasaCard from "./NasaCard";
+
 
 function App() {
   return (
