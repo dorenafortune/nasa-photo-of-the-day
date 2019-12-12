@@ -2,13 +2,14 @@ import React from "react";
 import "./App.css";
 import NasaPhoto from "./NasaPhoto";
 
+// import { Button } from "reactstrap";
 
 function App() {
   return (
     <div className="App">
-      <h1>NASA Photo of the Day</h1>
+
       <NasaPhoto />
-      
+    
     </div>
   );
 }
